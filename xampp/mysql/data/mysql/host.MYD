@@ -1,0 +1,12 @@
+2019-08-14  9:35:39 0 [Note] Reading of all Master_info entries succeeded
+2019-08-14  9:35:39 0 [Note] Added new Master_info '' to hash table
+2019-08-14  9:35:39 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.3.16-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-10-06 16:42:29 0 [Note] Reading of all Master_info entries succeeded
+2019-10-06 16:42:29 0 [Note] Added new Master_info '' to hash table
+2019-10-06 16:42:29 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.3.16-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-10-06 16:53:06 14 [ERROR] mysqld.exe: Index for table '.\mysql\user.MYI' is corrupt; try to repair it
+2019-10-06 16:53:06 14 [ERROR] Got error 126 when reading table '.\mysql\user'
+2019-10-06 16:53:06 14 [ERROR] mysqld.exe: 'user' í…Œì´ë¸”ì˜ ë¶€ì •í™•í•œ í‚¤ ì¡´ì¬. ìˆ˜ì •í•˜ì‹œì˜¤!
+2019-10-06 17:00:56 55 [Warning] IP address '185.216.140.180' could not be resolved: ¾Ë·ÁÁø È£½ºÆ®°¡ ¾ø½À´Ï´Ù. 
